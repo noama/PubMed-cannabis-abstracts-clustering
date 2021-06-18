@@ -1,4 +1,4 @@
- # Explore the knowledge and trends of cannabis research </br> using K-means clustering and text analysis
+ # Explore the Knowledge and Trends of Cannabis Research </br> using K-means Clustering and Text Analysis
 
 <p>
 This repository contains an implementation of a K-means clustering for grouping PubMed abstracts in cannabis field into categories that reflect the core themes in the existing studies and also examine the trends of cannabis research during the last 20 years.
